@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This repository is a Docker learning exercise.
+Imagine building a small application that works on your laptop but behaves differently on another computer. This Docker learning exercise explores one way to make software easier to run in a consistent environment.
 
-### Why is it interesting?
-A project can behave differently across computers when software versions or dependencies change.
-
-### How does it work?
-Docker packages the application and what it needs into a container.
-
-### Real-life example
-You want a small app to run consistently on another computer, so you package it into a container.
-
-### What did I learn?
-I explored how containers help keep software environments more consistent.
+Docker puts an application and its required software into a container. For example, you can package a small service so it is simpler to run elsewhere with the same dependencies. I learned the basic idea of containers and why they are useful in machine learning projects.
 
 ---
 
